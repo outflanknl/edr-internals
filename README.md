@@ -1,6 +1,6 @@
 # EDR Internals
 
-Tools for analyzing EDR agents. For details, see our [blog post]().
+Tools for analyzing EDR agents. For details, see our [blog post](https://www.outflank.nl/blog/2024/06/03/edr-internals-macos-linux/).
 
 * ESDump - macOS [Endpoint Security](https://developer.apple.com/documentation/endpointsecurity) client that dumps events to `stdout`
 * NEDump - macOS [content filter provider](https://developer.apple.com/documentation/networkextension/content_filter_providers) that dumps socket flow data to `stdout`
