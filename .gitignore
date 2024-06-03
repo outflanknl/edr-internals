@@ -1,0 +1,4 @@
+**/.DS_Store
+attacks/**/bin
+.idea/
+cmake-*/
