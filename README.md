@@ -21,3 +21,4 @@ Tools for analyzing EDR agents. For details, see our [blog post](https://www.out
 
 * NEDump is based on [LuLu](https://github.com/objective-see/LuLu) from [Objective-See](https://objective-see.org/)
 * [Phantom V1](https://github.com/rexguowork/phantom-attack/tree/main/phantom_v1) was created by [Rex Guo](https://twitter.com/xiaofei_rex) and [Junyuan Zeng](https://scholar.google.com.au/citations?user=hfFxWxMAAAAJ) for [DEF CON 29](https://www.youtube.com/watch?v=yaAdM8pWKG8). 
+* The [es_subscribe](frida_scripts/es_subscribe.js) Frida script is heavily based on Red Canary's Mac Monitor [wiki](https://github.com/redcanaryco/mac-monitor/wiki/8.-Endpoint-Security-DYLIB#an-arbitrary-clients-event-subscriptions) and es_subscribe [script](https://gist.github.com/Brandon7CC/e5e54978b1484fd09f5e201a4fd9dbfc).

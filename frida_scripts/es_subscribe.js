@@ -1,3 +1,5 @@
+// https://github.com/redcanaryco/mac-monitor/wiki/8.-Endpoint-Security-DYLIB#an-arbitrary-clients-event-subscriptions
+
 const ES_EVENT_TYPE = {
     ES_EVENT_TYPE_AUTH_EXEC: 0,
     ES_EVENT_TYPE_AUTH_OPEN: 1,
